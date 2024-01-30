@@ -85,5 +85,5 @@
   "workbench.productIconTheme": "fluent-icons",
   "dart.openDevTools": "flutter",
   "workbench.activityBar.location": "top",
-  // "workbench.statusBar.visible": false,
+  "workbench.statusBar.visible": false,
 }
